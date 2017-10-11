@@ -16,3 +16,5 @@
 <hr>
 <h3>Links and Images</h3>
 <p> First I'm going to link to <a href="http://language-centre.sllf.qmul.ac.uk/language-centre/people/academic/barge.html">Martin Barge</a></p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Snow_leopard_portrait.jpg" />
