@@ -13,3 +13,6 @@
   
   <h1 style="color:blue;">I'm going to </h1> <u>underline this</u>, then this is <strong> very important</strong>, and then this is <em>italicised for effect</em>. for example, <em> Oh No!</em> he cried. </p>
   
+<hr>
+<h3>Links and Images</h3>
+<p> First I'm going to link to <a href="http://language-centre.sllf.qmul.ac.uk/language-centre/people/academic/barge.html">Martin Barge</a>
