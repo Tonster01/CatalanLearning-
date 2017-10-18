@@ -1,2 +1,2 @@
 <body>
-<h1>this is new stuff folks</h1>
+<h1 style="color:Tomato;">this is new stuff folks</h1>
