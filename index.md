@@ -18,3 +18,16 @@
 <p> First I'm going to link to <a href="http://language-centre.sllf.qmul.ac.uk/language-centre/people/academic/barge.html">Martin Barge</a></p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Snow_leopard_portrait.jpg" />
+
+<table id="t01">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
