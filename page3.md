@@ -1,1 +1,1 @@
-<h1>Skills</h1>
+<h1 style="color:DodgerBlue;">Skills</h1>
