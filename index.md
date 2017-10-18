@@ -11,7 +11,7 @@
   
   <body>
   
-<h1 style="color:blue;">I'm going to <u>underline this</u>, then this is <strong> very important</strong>, and then this is <em>italicised for effect</em>. for example, <em> Oh No!</em> he cried.</h1></p>
+<h1 style="color:blue;">I'm going to <u>underline this</u>, then this is <strong> very important</strong>, and then this is <em>italicised for effect</em>. for example, <em> Oh No!</em> he cried.</h1>
   
 <hr>
 <h3>Links and Images</h3>
