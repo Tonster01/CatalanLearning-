@@ -2,9 +2,7 @@
 <h1 style="color:Tomato;">This is dedicated to Multimedia assignment</h1>
 
 <video width="320" height="240" autoplay>
-  <source src=https://youtu.be/GeLMMpw59D4>
-hello
-</video>
+  <source src=https://youtu.be/GeLMMpw59D4></video>
 
 <h2>Below is the link to test that you have learned the above</h2>
 
