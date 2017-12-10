@@ -2,8 +2,7 @@
 <h1 style="color:Tomato;">This is dedicated to Multimedia assignment</h1>
 
 <video width="320" height="240" autoplay>
-  <source src=https://youtu.be/GeLMMpw59D4 type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+  <source src=https://youtu.be/GeLMMpw59D4>
 hello
 </video>
 
