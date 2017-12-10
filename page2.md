@@ -1,9 +1,7 @@
 <body>
 <h1 style="color:Tomato;">This is dedicated to Multimedia assignment</h1>
 
-<a href=https://youtu.be/GeLMMpw59D4>Buildings in Catalan and how to pronounce them</a>
-
-<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+<a href="https://youtu.be/GeLMMpw59D4" target="_blank">Buildings in Catalan and how to pronounce them</a>
 
 <h2>Below is the link to test that you have learned the above</h2>
 
