@@ -4,7 +4,6 @@
 <video width="320" height="240" autoplay>
   <source src="movie.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
 </video>
 
 <h2>Below is the link to test that you have learned the above</h2>
