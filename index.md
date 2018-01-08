@@ -1,5 +1,7 @@
-<h1> Language fun learning with Martin</h1>
-<h2 style="color:Tomato;">Section One: What we can all learn from Martin.</h2>
+<h1>Introduction to Catalan as a Language</h1>
+<p> Catalonia (Catalunya) is a autonomous county in the North East of Spain bordering Andorra and France. There are 4 main provinces where the capitals are, Barcelona, Girona, Lleida and Tarragona in order of size. Barcelona is the Capital and also the Seventh most populous Urban area in the European Union. The main language is Catalan but Spain is also spoken as the majority of Catalans are brought up bilingual. 
+  
+<h2 style="color:Tomato;">Summary of how to attain a basic to intermediate level of Catalan.</h2>
 <p> Martin is the greatest at teaching computer Languages.</p>
 
 <hr>
