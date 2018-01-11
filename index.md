@@ -15,7 +15,7 @@
 <p>This will consist of hearing each word and then writing the corresponding word in Enlglish and then vice versa. Also at the end will consist of a memory game with flash cards.</p>
 
 <p>The second stage consists of:</p>
-<p><b>Key Phrases, the alphabet, numbers and Catalan Consonant Combinations, Diphtongs and Triphthongs</b></p>
+<p><b>Key Phrases, The Alphabet, Numbers and Catalan Consonant Combinations, Diphtongs and Triphthongs</b></p>
   
  <p>This stage will have pronounciation as well as how to write each word or phrase, this will then get progressively harder with the Enlish given and then the spanish needing to be filled into the blank.</p>   
 
