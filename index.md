@@ -26,10 +26,10 @@
   <li>Tercer conjugació (-ir)</li>
   <li>Gerundis i participis irregulars</li>
   
-<p>The final stage will consist of:
-Memory games with all stages covered 
-Listening exercises 
-Gap fills</p>
+<p>The final stage will consist of:</p>
+<li>Memory games with all stages covered</li> 
+<li>Listening exercises</li> 
+<li>Gap fills</li>
  
 
 <hr>
