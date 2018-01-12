@@ -103,7 +103,6 @@
  
 <p>click play to hear all the words of the above</p>
 
-
 <h4 style="color:DodgerBlue;">Family</h4>
 <ul>
   <li>La família= the family</li>
@@ -120,7 +119,34 @@
   <li>La germanastra= half-sister</li>
   <li>El sogre= father-in-law</li>
   <li>La sogra= mother-in-law</li>
-  <li>
+  <li>El cunyat= brother-in-law</li>
+  <li>La cunyada= sister-in-law<li>
+  <li>El gendre= son-in-law</li>
+  <li>La nora= daughter-in-law</li>
+  <li>l'avi= grandfather</li>
+  <li>iaia= grandmother</li>
+  <li>El besavi= great-grandfather</li>
+  <li>La besàvia= great-grandmother</li>
+  <li>El nét= grandson</li>
+  <li>La néta= granddaughter</li>
+  <li>l'oncle= uncle</li>
+  <li>La tia= aunt</li>
+  <li>El nebot= nephew</li>
+  <li>La neboda= niece</li>
+  <li>El cosí= cousin (m)</li>
+  <li>La cosina= cousin (f)</li>
+  <li>El padastre= stepfather</li>
+  <li>La madrastra= stepmother</li>
+  <li>La germanastra= stepsister</li>
+  <li>El fillastre= stepson</li>
+  <li>La fillastra= stepdaughter</li>
+  <li>El padrí= godfather</li>
+  <li>La padrina= godmother</li>
+  <li>Els bessons= twins (m)</li>
+  <li>Les bessones= twins (f)</li>
+</ul>
+
+<p>click play to hear all the words of the above</p>
   
 <a href="https://youtu.be/GeLMMpw59D4" target="_blank">Buildings in Catalan and how to pronounce them</a>
 
