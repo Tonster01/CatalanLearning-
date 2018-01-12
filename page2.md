@@ -1,7 +1,7 @@
 <body>
-<h1 style="color:Tomato;">This is dedicated to Multimedia assignment</h1>
+<h1 style="color:Tomato;">Key Vocabulary</h1>
 
-<p style="color:DodgerBlue;">Click on the below link which will open a new tab for you automatically. This will send you to a Youtube video which I made in order to teach the correct pronounciation.</p>
+<h4 style="color:DodgerBlue;">Click on the below link which will open a new tab for you automatically. This will send you to a Youtube video which I made in order to teach the correct pronounciation.</h4>
 
 <a href="https://youtu.be/GeLMMpw59D4" target="_blank">Buildings in Catalan and how to pronounce them</a>
 
