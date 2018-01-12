@@ -3,7 +3,15 @@
 
 <h4 style="color:DodgerBlue;">Household</h4>
 <ul>
-  <li>El bany= the bathroom</li>
+  <li>El bany= the bathroom</li><audio controls style="width: 150px; display: block;" >
+
+<source src="https://archive.org/details/tonistrachan_gmail_Bany/Bany.wav" type="audio/ogg" >
+
+<source src="https://archive.org/details/tonistrachan_gmail_Bany/Bany.wav" type="audio/mpeg">
+
+<br />Your browser does not support the audio element.<br />
+
+</audio>
   <li>El lavabo= the toilets</li>
   <li>El llit= the bed</li>
   <li>El dormitory= the bedroom</li>
