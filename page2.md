@@ -99,7 +99,7 @@
   <li>pagina= page</li>
   <li>llapis= pencil</li>
   <li>qüestió= question</li>
-<ul>
+</ul>
  
 <p>click play to hear all the words of the above</p>
 
