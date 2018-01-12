@@ -9,8 +9,6 @@
 
 <source src="https://archive.org/details/tonistrachan_gmail_Bany/Bany.wav" type="audio/mpeg">
 
-<br />Your browser does not support the audio element.<br />
-
 </audio>
   <li>El lavabo= the toilets</li>
   <li>El llit= the bed</li>
