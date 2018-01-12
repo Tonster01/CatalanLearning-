@@ -24,7 +24,7 @@
   <li>Primera conjugació (-ar)</li>
   <li>Segona conjugació (-er, -re)</li>
   <li>Tercer conjugació (-ir)</li>
-  <li>Gerundis i participis irregulars</li>
+  <li>Gerundis i participis irregulars</li></ul>
   
 <p>The final stage will consist of:</p>
 <li>Memory games with all stages covered</li> 
