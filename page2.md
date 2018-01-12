@@ -17,11 +17,11 @@
   <li>La casa (f)= the house</li>
   <li>La cuina (f)= the kitchen</li>
   <li>La nevera (f)= the fridge</li>
-  <li><b>L'habitació (f so when followed by a H or a vowel you add the apostrophe)</b>= the room</li>
+  <li><b>l'Habitació (f so when followed by a H or a vowel you add the apostrophe)</b>= the room</li>
   <li>La taula (f)= the table</li>
   <li>La finestra (f)= the window</li>
   <li>La televisió (f)= the television</li>
-  <li><b>L'armari (f)</b>= the wardrobe</li>
+  <li><b>l'Armari (f)</b>= the wardrobe</li>
   <li>La calaixera (f)= the chest of drawers</li>
   <li>La ràdio (f)= the radio</li>
   <li>La sala d'estar (f)= the sitting room</li>
@@ -30,12 +30,34 @@
 <p>click play to hear all the words of the above</p><iframe src="https://archive.org/embed/tonistrachan_gmail_Bany" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <h4 style="color:DodgerBlue;">City</h4>
+<p>We can say that all feminine words starting with a vowel or H the la is shortened by an apostrophe and removing the a.<p>
 <ul>
-  <li><b>L'ajuntament (f)</b>= the town hall</li>
+  <li><b>l'Ajuntament</b>= the town hall</li>
   <li>El jutjat= the courthouse</li>
   <li>La ambaixada= the embassy</li>
-  <li><b>L'estació de mombers (f)</b>= the fire station</li>
-  
+  <li><b>l'Estació de mombers</b>= the fire station</li>
+  <li>La casa del parlament= the parliament house</li>
+  <li><b>l'Estació de policia</b>= the police station</li>
+  <li><b>l'Oficina de correus</b>= the post office</li>
+  <li>La presó= the prison</li>
+  <li>La fàbrica= the factory</li>
+  <li>La farmàcia= the pharmacy</li>
+  <li>La benzinera= the petrol staition</li>
+  <li><b>l'Hotel</b>= the hotel</li>
+  <li>El mercat= the market</li>
+  <li>La botiga= the shop</li>
+  <li>El supermercat= the supermarket</li>
+  <li>El restaurant= the restaurant</li>
+  <li><b>l'Oficina</b>= the office</li>
+  <li>La perruqueria= the heairdresser</li>
+  <li>El dentista= the dentist</li>
+  <li>El cinema= the cinema</li>
+  <li>La sala de concerts= the concert hall</li>
+  <li><b>l'Aparcament</b>= the parking lot</li>
+  <li><b>l'Església</b>= the church</li>
+  <li><b>l'Aeroport</b>= the airport</li>
+  <li><b>l'Estació de tren</b>= the train station</li>
+  
 <a href="https://youtu.be/GeLMMpw59D4" target="_blank">Buildings in Catalan and how to pronounce them</a>
 
 <h2>Below is the link to test that you have learned the above</h2>
