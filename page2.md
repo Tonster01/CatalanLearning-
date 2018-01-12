@@ -1,7 +1,27 @@
 <body>
 <h1 style="color:Tomato;">Key Vocabulary</h1>
 
-<h4 style="color:DodgerBlue;">Click on the below link which will open a new tab for you automatically. This will send you to a Youtube video which I made in order to teach the correct pronounciation.</h4>
+<h4 style="color:DodgerBlue;">Household</h4>
+<ul>
+  <li>El bany= the bathroom</li>
+  <li>El lavabo= the toilets</li>
+  <li>El llit= the bed</li>
+  <li>El dormitory= the bedroom</li>
+  <li>El mobiliari (mobles)= the furniture (furniture)</li>
+  <li>La casa (f)= the house</li>
+  <li>La cuina (f)= the kitchen</li>
+  <li>El plat= the plate</li>
+  <li>La cadira (f)= the chair</li>
+  <li>El seient= the seat</li>
+  <li>La nevera (f)= the fridge</li>
+  <li><b>L'habitació (f so when followed by a H or a vowel you add the apostrophe)</b>= the room</li>
+  <li>La taula (f)= the table</li>
+  <li>La finestra (f)= the window</li>
+  <li>La televisió (f)= the television</li>
+  <li><b>L'armari (f)</b>= the wardrobe</li>
+  <li>La calaixera (f)= the chest of drawers</li>
+  <li>El radiador= the radiator</li>
+  <li>La ràdio (f)= the radio</li>
 
 <a href="https://youtu.be/GeLMMpw59D4" target="_blank">Buildings in Catalan and how to pronounce them</a>
 
