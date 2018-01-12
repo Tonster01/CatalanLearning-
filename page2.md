@@ -8,11 +8,14 @@
   <li>El llit= the bed</li>
   <li>El dormitory= the bedroom</li>
   <li>El mobiliari (mobles)= the furniture (furniture)</li>
+  <li>El plat= the plate</li>
+  <li>El seient= the seat</li> 
+  <li>El radiador= the radiator</li>
+  <li>El menjador= the dining room</li>
+  <li>El rentaplats= the dishwasher</li>
+  <li>La cadira (f)= the chair</li>
   <li>La casa (f)= the house</li>
   <li>La cuina (f)= the kitchen</li>
-  <li>El plat= the plate</li>
-  <li>La cadira (f)= the chair</li>
-  <li>El seient= the seat</li>
   <li>La nevera (f)= the fridge</li>
   <li><b>L'habitació (f so when followed by a H or a vowel you add the apostrophe)</b>= the room</li>
   <li>La taula (f)= the table</li>
@@ -20,8 +23,9 @@
   <li>La televisió (f)= the television</li>
   <li><b>L'armari (f)</b>= the wardrobe</li>
   <li>La calaixera (f)= the chest of drawers</li>
-  <li>El radiador= the radiator</li>
   <li>La ràdio (f)= the radio</li>
+  <li>La sala d'estar (f)= the sitting room</li>
+  <li>La rentadora (f)= the washing machine</li>
 
 <a href="https://youtu.be/GeLMMpw59D4" target="_blank">Buildings in Catalan and how to pronounce them</a>
 
