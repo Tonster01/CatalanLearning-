@@ -80,9 +80,8 @@
   <li>ovellas= sheep</li>
   <li>conill= rabbit</li>
   <li>hàmster= hamster</li>
-<ul>
+</ul>
   
-
 <p>click play to hear all the words of the above</p>
 
 <h4 style="color:DodgerBlue;">School</h4>
