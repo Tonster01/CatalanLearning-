@@ -4,7 +4,7 @@
 <h2 style="color:Tomato;">Overview of how to attain a basic to intermediate level of Catalan.</h2>
 <p> This online course has been broken down into 4 stages, each page is dedicated to a stage. 
   The first stage consists of:</p>
-<ul><b>Key vocab focussing on</b>
+<ul><b>Key vocabulary focussing on</b>
   <li>Household</li>
   <li>City</li> 
   <li>Food</li>
@@ -14,20 +14,32 @@
  </ul>
 <p>This will consist of hearing each word and then writing the corresponding word in Enlglish and then vice versa. Also at the end will consist of a memory game with flash cards.</p>
 
-<p>The second stage consists of:</p>
+<h3>The second stage consists of:</h3>
 <p><b>Key Phrases, The Alphabet, Numbers and Catalan Consonant Combinations, Diphtongs and Triphthongs</b></p>
   
- <p>This stage will have pronounciation as well as how to write each word or phrase, this will then get progressively harder with the Enlish given and then the spanish needing to be filled into the blank.</p>   
+<p>This stage will have pronounciation as well as how to write each word or phrase, this will then get progressively harder with the Enlish given and then the spanish needing to be filled into the blank space.</p>   
 
 <p>The third stage consists of:</p> 
 <ul><b>Basic grammar</b>
-  <li>
+  <li>Primera conjugació (-ar)</li>
+  <li>Segona conjugació (-er, -re)</li>
+  <li>Tercer conjugació (-ir)</li>
+  <li>Gerundis i participis irregulars</li>
+  
+<p>The final stage will consist of:
+Memory games with all stages covered 
+Listening exercises 
+Gap fills</p>
+ 
 
 <hr>
 <hr>
-<h2>Some HTML Formatting stuff</h2>
+<h2>Below are some useful links to supplement your learning and are numbered to correspond with the stage.</h2>
 <ol>
-  <li> Item 45</li>
+  <li><a href="http://learn101.org/catalan_vocabulary.php">Key vocabulary</a></li>
+  <li><a href="http://ielanguages.com/catalan.html">Key Phrases, The Alphabet, Numbers and Catalan Consonant Combinations, Diphtongs and Triphthongs</a></li>
+  <li><a href="http://pdf.teidedigital.com/cat/3396/04%20Taules%20de%20formes%20verbals.pdf">Basic Grammar</a></li>
+  <li>For further learning<a href="http://www.orbilat.com/Languages/Catalan/Grammar/index.html">click here</a></li>
   </ol>
   
   <body>
