@@ -57,6 +57,71 @@
   <li><b>l'Església</b>= the church</li>
   <li><b>l'Aeroport</b>= the airport</li>
   <li><b>l'Estació de tren</b>= the train station</li>
+</ul>
+
+<p>click play to hear all the words of the above</p>
+
+<h4 style="color:DodgerBlue;">Animals</h4>
+<ul>
+  <li>ocell= bird</li>
+  <li>gat= cat</li>
+  <li>gos= dog</li>
+  <li>òs= bear</li>
+  <li>llop= wolf</li>
+  <li>lleó= lion</li>
+  <li>tigre= tiger</li>
+  <li>cavall= horse</li>
+  <li>cérvol= deer</li>
+  <li>tortuga= turtle</li>
+  <li>porc= pig</li>
+  <li>vaca= cow</li>
+  <li>ànec= duck</li>
+  <li>òliba= owl</li>
+  <li>ovellas= sheep</li>
+  <li>conill= rabbit</li>
+  <li>hàmster= hamster</li>
+<ul>
+  
+
+<p>click play to hear all the words of the above</p>
+
+<h4 style="color:DodgerBlue;">School</h4>
+<ul>
+  <li>La classe= the class</li>
+  <li>l'Entrenador= the coach</li>
+  <li>aprendre= (to) learn</li>
+  <li>alumne= pupil</li>
+  <li>llibres= books</li>
+  <li>ploma= pen</li>
+  <li>diccionari= dictionary</li>
+  <li>biblioteca= library</li>
+  <li>mestre= teacher</li>
+  <li>paper= paper</li>
+  <li>pagina= page</li>
+  <li>llapis= pencil</li>
+  <li>qüestió= question</li>
+<ul>
+ 
+<p>click play to hear all the words of the above</p>
+
+
+<h4 style="color:DodgerBlue;">Family</h4>
+<ul>
+  <li>La família= the family</li>
+  <li>Els pares= the parents</li>
+  <li>El marit= the husband</li>
+  <li>La muller= the wife</li>
+  <li>El papà= the father</li>
+  <li>La mare= the mother</li>
+  <li>El fill= the son</li>
+  <li>La filla= the daughter</li>
+  <li>El germà= the brother</li>
+  <li>La germana= the sister</li>
+  <li>El germanastre= half-brother</li>
+  <li>La germanastra= half-sister</li>
+  <li>El sogre= father-in-law</li>
+  <li>La sogra= mother-in-law</li>
+  <li>
   
 <a href="https://youtu.be/GeLMMpw59D4" target="_blank">Buildings in Catalan and how to pronounce them</a>
 
