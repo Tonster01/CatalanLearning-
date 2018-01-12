@@ -7,7 +7,6 @@
 <ul><b>Key vocabulary focussing on</b>
   <li>Household</li>
   <li>City</li> 
-  <li>Food</li>
   <li>Animals</li>
   <li>School</li>
   <li>Family</li>
