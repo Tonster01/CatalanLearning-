@@ -26,7 +26,15 @@
   <li>La ràdio (f)= the radio</li>
   <li>La sala d'estar (f)= the sitting room</li>
   <li>La rentadora (f)= the washing machine</li>
+</ul>
 
+<h4 style="color:DodgerBlue;">City</h4>
+<ul>
+  <li><b>L'ajuntament (f)</b>= the town hall</li>
+  <li>El jutjat= the courthouse</li>
+  <li>La ambaixada= the embassy</li>
+  <li><b>L'estació de mombers (f)</b>= the fire station</li>
+  
 <a href="https://youtu.be/GeLMMpw59D4" target="_blank">Buildings in Catalan and how to pronounce them</a>
 
 <h2>Below is the link to test that you have learned the above</h2>
