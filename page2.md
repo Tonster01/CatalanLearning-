@@ -3,7 +3,7 @@
 
 <h4 style="color:DodgerBlue;">Household</h4>
 <ul>
-  <li>El bany= the bathroom</li><iframe src="https://archive.org/embed/tonistrachan_gmail_Bany" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+  <li>El bany= the bathroom</li>
   <li>El lavabo= the toilets</li>
   <li>El llit= the bed</li>
   <li>El dormitory= the bedroom</li>
@@ -27,6 +27,7 @@
   <li>La sala d'estar (f)= the sitting room</li>
   <li>La rentadora (f)= the washing machine</li>
 </ul>
+<p>click play to hear all the words of the above</p><iframe src="https://archive.org/embed/tonistrachan_gmail_Bany" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <h4 style="color:DodgerBlue;">City</h4>
 <ul>
