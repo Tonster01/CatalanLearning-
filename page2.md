@@ -3,13 +3,7 @@
 
 <h4 style="color:DodgerBlue;">Household</h4>
 <ul>
-  <li>El bany= the bathroom</li><audio controls style="width: 150px; display: block;" >
-
-<source src="https://archive.org/details/tonistrachan_gmail_Bany/Bany.wav" type="audio/ogg" >
-
-<source src="https://archive.org/details/tonistrachan_gmail_Bany/Bany.wav" type="audio/mpeg">
-
-</audio>
+  <li>El bany= the bathroom</li><iframe src="https://archive.org/embed/tonistrachan_gmail_Bany" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
   <li>El lavabo= the toilets</li>
   <li>El llit= the bed</li>
   <li>El dormitory= the bedroom</li>
