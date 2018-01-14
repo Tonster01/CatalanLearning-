@@ -102,7 +102,7 @@
   </tr>
 </table>
 
-<p>Click play to hear how they are pronounced<p>
+<p>Click play to hear how they are pronounced</p>
 
 <iframe src="https://archive.org/embed/BasicVocab" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -184,6 +184,9 @@
   </tr>
 </table>
 
+<p>Click play to hear how to pronounce the above</p>
+
+<iframe src="https://archive.org/embed/alphabet_201801" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <h2 style="color:MediumSeaGreen;">Numbers</h2>
 
 <table class="table table-striped table-bordered table-hover table-responsive" align="center" cellpadding="2" cellspacing="2">
