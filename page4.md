@@ -714,3 +714,319 @@
     <td>havent -ut</td>
   </tr>
 <table>
+
+<h2 style="color:Green;">Tercer conjugació (-ir)</h2>
+
+<table id="t01">
+  <tr>
+    <th>Person</th>
+    <th>Imperfet</th> 
+    <th>Plusquamperfet</th>
+  </tr>
+  <tr>
+    <td>jo</td>
+    <td>ia</td>
+    <td>havia -it</td>
+  </tr>  
+  <tr>
+    <td>tu</td>
+    <td>ies</td>
+    <td>havies -it</td>
+  </tr>
+  <tr>
+    <td>ell/ella/vosté</td>
+    <td>ia</td>
+    <td>havia -it</td>
+  </tr>
+  <tr>
+    <td>nosaltres</td>
+    <td>íem</td>
+    <td>havíem -it</td>
+  </tr>
+  <tr>
+    <td>vosaltres</td>
+    <td>íeu</td>
+    <td>havíeu -it</td>
+  </tr>
+  <tr>
+    <td>ells/elles/vostès</td>
+    <td>ien</td>
+    <td>havien -it</td>
+  </tr>
+<table>
+  
+<hr>
+  
+<table id="t01">
+  <tr>
+    <th>Person</th>
+    <th>Futur simple</th> 
+    <th>Futur perfect</th>
+  </tr>
+  <tr>
+    <td>jo</td>
+    <td>iré</td>
+    <td>hauré -it</td>
+  </tr>  
+  <tr>
+    <td>tu</td>
+    <td>irás</td>
+    <td>hauràs -it</td>
+  </tr>
+  <tr>
+    <td>ell/ella/vosté</td>
+    <td>irà</td>
+    <td>haurà -it</td>
+  </tr>
+  <tr>
+    <td>nosaltres</td>
+    <td>irem</td>
+    <td>haurem -it</td>
+  </tr>
+  <tr>
+    <td>vosaltres</td>
+    <td>ireu</td>
+    <td>haureu -it</td>
+  </tr>
+  <tr>
+    <td>ells/elles/vostès</td>
+    <td>iran</td>
+    <td>hauran -it</td>
+  </tr>
+<table>
+<hr>
+
+<table id="t01">
+  <tr>
+    <th>Person</th>
+    <th>Condicional simple</th> 
+    <th>Condicional perfect</th>
+  </tr>
+  <tr>
+    <td>jo</td>
+    <td>iria</td>
+    <td>hauria -it</td>
+  </tr>  
+  <tr>
+    <td>tu</td>
+    <td>iries</td>
+    <td>hauries -it</td>
+  </tr>
+  <tr>
+    <td>ell/ella/vosté</td>
+    <td>iria</td>
+    <td>hauria -it</td>
+  </tr>
+  <tr>
+    <td>nosaltres</td>
+    <td>iríem</td>
+    <td>hauríem -it</td>
+  </tr>
+  <tr>
+    <td>vosaltres</td>
+    <td>iríeu</td>
+    <td>hauríeu -it</td>
+  </tr>
+  <tr>
+    <td>ells/elles/vostès</td>
+    <td>irien</td>
+    <td>haurien -it</td>
+  </tr>
+<table>
+<hr>
+
+<table id="t01">
+  <tr>
+    <th>Person</th>
+    <th>Present</th> 
+    <th>Perfect</th>
+  </tr>
+  <tr>
+    <td>jo</td>
+    <td>o</td>
+    <td>he -it</td>
+  </tr>  
+  <tr>
+    <td>tu</td>
+    <td>s</td>
+    <td>has -it</td>
+  </tr>
+  <tr>
+    <td>ell/ella/vosté</td>
+    <td>/</td>
+    <td>ha -it</td>
+  </tr>
+  <tr>
+    <td>nosaltres</td>
+    <td>im</td>
+    <td>hem -it</td>
+  </tr>
+  <tr>
+    <td>vosaltres</td>
+    <td>iu</td>
+    <td>heu -it</td>
+  </tr>
+  <tr>
+    <td>ells/elles/vostès</td>
+    <td>en</td>
+    <td>han -it</td>
+  </tr>
+<table>
+<hr>
+  
+<table id="t01">
+  <tr>
+    <th>Person</th>
+    <th>Passat perifràstic</th> 
+  </tr>
+  <tr>
+    <td>jo</td>
+    <td>vaig -ir</td>
+  </tr>  
+  <tr>
+    <td>tu</td>
+    <td>vas -ir</td>
+  </tr>
+  <tr>
+    <td>ell/ella/vosté</td>
+    <td>va -ir</td>
+  </tr>
+  <tr>
+    <td>nosaltres</td>
+    <td>vam -ir</td>
+  </tr>
+  <tr>
+    <td>vosaltres</td>
+    <td>vau -ir</td>
+  </tr>
+  <tr>
+    <td>ells/elles/vostès</td>
+    <td>van -ir</td>
+  </tr>
+<table>
+
+<h3 style="color:Tomato;">Subjunctiu</h3>
+
+<table id="t01">
+  <tr>
+    <th>Person</th>
+    <th>Present</th> 
+    <th>Perfect</th>
+  </tr>
+  <tr>
+    <td>jo</td>
+    <td>i</td>
+    <td>hagi -it</td>
+  </tr>  
+  <tr>
+    <td>tu</td>
+    <td>is</td>
+    <td>hagis -it</td>
+  </tr>
+  <tr>
+    <td>ell/ella/vosté</td>
+    <td>i</td>
+    <td>hagi -it</td>
+  </tr>
+  <tr>
+    <td>nosaltres</td>
+    <td>im</td>
+    <td>hàgim -it</td>
+  </tr>
+  <tr>
+    <td>vosaltres</td>
+    <td>iu</td>
+    <td>hàgiu -it</td>
+  </tr>
+  <tr>
+    <td>ells/elles/vostès</td>
+    <td>in</td>
+    <td>hagin -it</td>
+  </tr>
+<table>
+<hr>
+  
+<table id="t01">
+  <tr>
+    <th>Person</th>
+    <th>Imperfet</th> 
+    <th>Plusquamperfet</th>
+  </tr>
+  <tr>
+    <td>jo</td>
+    <td>ís</td>
+    <td>hagués -it</td>
+  </tr>  
+  <tr>
+    <td>tu</td>
+    <td>issis</td>
+    <td>haguessis -it</td>
+  </tr>
+  <tr>
+    <td>ell/ella/vosté</td>
+    <td>ís</td>
+    <td>hagués -it</td>
+  </tr>
+  <tr>
+    <td>nosaltres</td>
+    <td>íssim</td>
+    <td>haguéssim -it</td>
+  </tr>
+  <tr>
+    <td>vosaltres</td>
+    <td>íssiu</td>
+    <td>haguéssiu -it</td>
+  </tr>
+  <tr>
+    <td>ells/elles/vostès</td>
+    <td>issin</td>
+    <td>haguessin -it</td>
+  </tr>
+<table>
+  
+<h3 style="color:Tomato;">Imperatiu</h3>
+<table id="t01">
+  <tr>
+    <th>Person</th>
+    <th>Imperatiu</th> 
+  </tr> 
+  <tr>
+    <td>tu</td>
+    <td>/</td>
+  </tr>
+  <tr>
+    <td>vosté</td>
+    <td>i</td>
+  </tr>
+  <tr>
+    <td>nosaltres</td>
+    <td>im</td>
+  </tr>
+  <tr>
+    <td>vosaltres</td>
+    <td>iu</td>
+  </tr>
+  <tr>
+    <td>vostès</td>
+    <td>in</td>
+  </tr>
+<table>
+  
+<h3 style="color:Tomato;">Formes no personals</h3>
+
+<table id="t01">
+  <tr>
+    <th>Infinitiu</th>
+    <th>Gerundi</th> 
+    <th>Participi</th>
+  </tr>
+  <tr>
+    <td>ir</td>
+    <td>int</td>
+    <td>it</td>
+  </tr>  
+  <tr>
+    <td>haver -it</td>
+    <td>havent -it</td>
+  </tr>
+<table>
