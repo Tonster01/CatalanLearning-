@@ -153,6 +153,7 @@
 
 <p>click play to hear all the words of the above</p>
 
+<iframe src="https://archive.org/embed/germanastre" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <p>Now listen to all the recordings again whilst jotting down the word you think you have heard, whilst not looking at the screen. Then do the same but write down the English word.</p>
   
