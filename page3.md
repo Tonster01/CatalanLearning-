@@ -447,3 +447,73 @@
     <td><strong>milenes (1000es) </strong></td>
   </tr>
 </table>
+
+<h2 style="color:MediumSeaGreen;">Catalan Consonant Combinations, Diphthongs and Triphthongs</h2>
+<table class="table table-striped table-bordered table-hover table-responsive" width="99%" cellpadding="2" cellspacing="2">
+  <col width="64" />
+  <col width="239" />
+  <tr height="20">
+    <td width="133" height="20">tj/tg/dj</td>
+    <td width="933">j in &quot;jump&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">tz</td>
+    <td>dz in &quot;adze&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">tx/ig</td>
+    <td>ch in &quot;chip&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">ou</td>
+    <td>o in &quot;row&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">oi</td>
+    <td>oy in &quot;boy&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">au</td>
+    <td>ow in &quot;cow&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">ei</td>
+    <td>ay in &quot;bay&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">ui</td>
+    <td>wee in &quot;week&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">ai</td>
+    <td>&quot;eye&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">iu</td>
+    <td>&quot;you&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">eu</td>
+    <td>no real English equivalent, simply try to pronounce both vowels quickly    together</td>
+  </tr>
+  <tr height="20">
+    <td height="20">iai</td>
+    <td>&quot;yi&quot; in &quot;yikes!&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">uai</td>
+    <td>&quot;why&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">iau</td>
+    <td>same as English exclamation of pain &quot;yow!&quot;</td>
+  </tr>
+  <tr height="20">
+    <td height="20">ieu</td>
+    <td>no English equivalent: essentially &quot;eu&quot; with a y sound at    beginning</td>
+  </tr>
+  <tr height="20">
+    <td height="20">ueu</td>
+    <td>no English equivalent: essentially &quot;eu&quot; with a w sound at    beginning</td>
+  </tr>
+</table>
