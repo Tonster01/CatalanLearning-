@@ -102,6 +102,10 @@
   </tr>
 </table>
 
+<p>Click play to hear how they are pronounced<p>
+
+<iframe src="https://archive.org/embed/BasicVocab" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <h2 style="color:MediumSeaGreen;">Catalan Alphabet</h2>
 
 <table class="table table-striped table-bordered table-hover table-responsive" width="547" align="center" cellpadding="2" cellspacing="2">
