@@ -6,7 +6,7 @@
 
 <p>For every verb you take away the ending <strong>(-ar, -er or -ir)</strong> and you then add the correct ending. For example you would take away the <strong>-ar ending on the verb sopar to make sop.</strong></p>
 
-<h3 style="color:Tomato;>Indicatiu</h3>
+<h3 style="color:Tomato;">Indicatiu</h3>
 
 <table id="t01">
   <tr>
