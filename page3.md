@@ -102,7 +102,7 @@
   </tr>
 </table>
 
-<h2 style="border:2px MediumSeaGreen;">Catalan Alphabet</h2>
+<h2 style="background-color:MediumSeaGreen;">Catalan Alphabet</h2>
 
 <table class="table table-striped table-bordered table-hover table-responsive" width="547" align="center" cellpadding="2" cellspacing="2">
   <col width="64" span="2" />
