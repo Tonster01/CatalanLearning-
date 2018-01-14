@@ -180,3 +180,147 @@
   </tr>
 </table>
 
+<h2 style="color:MediumSeaGreen;">Numbers</h2>
+
+<table class="table table-striped table-bordered table-hover table-responsive" align="center" cellpadding="2" cellspacing="2">
+  <tr height="20">
+    <td height="20">0</td>
+    <td><strong>zero</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">1</td>
+    <td><strong>u, un, una</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">2</td>
+    <td><strong>dos, dues</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">3</td>
+    <td><strong>tres</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">4</td>
+    <td><strong>quatre</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">5</td>
+    <td><strong>cinc</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">6</td>
+    <td><strong>sis</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">7</td>
+    <td><strong>set</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">8</td>
+    <td><strong>vuit</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">9</td>
+    <td><strong>nou</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">10</td>
+    <td><strong>deu</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">11</td>
+    <td><strong>onze</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">12</td>
+    <td><strong>dotze</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">13</td>
+    <td><strong>tretze</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">14</td>
+    <td><strong>catorze</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">15</td>
+    <td><strong>quinze</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">16</td>
+    <td><strong>setze</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">17</td>
+    <td><strong>disset</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">18</td>
+    <td><strong>divuit</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">19</td>
+    <td><strong>dinou</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">20</td>
+    <td><strong>vint</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">21</td>
+    <td><strong>vint-i-u</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">22</td>
+    <td><strong>vint-i-dos</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">30</td>
+    <td><strong>trenta</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">31</td>
+    <td><strong>trenta-u</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">40</td>
+    <td><strong>quaranta</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">50</td>
+    <td><strong>cinquanta</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">60</td>
+    <td><strong>seixanta</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">70</td>
+    <td><strong>setanta</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">80</td>
+    <td><strong>vuitanta</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">90</td>
+    <td><strong>noranta</strong></td>
+    </tr>
+  <tr height="26">
+    <td height="26">100</td>
+    <td><strong>cent</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">200</td>
+    <td><strong>dos-cents</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">1.000</td>
+    <td><strong>mil</strong></td>
+    </tr>
+  <tr height="20">
+    <td height="20">2.000</td>
+    <td><strong>dos mil, dues mil </strong></td>
+    </tr>
+</table>
