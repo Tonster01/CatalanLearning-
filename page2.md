@@ -149,7 +149,7 @@
   <li>La padrina= godmother</li>
   <li>Els bessons= twins (m)</li>
   <li>Les bessones= twins (f)</li>
-</ul>
+
 
 <p>click play to hear all the words of the above</p>
 
