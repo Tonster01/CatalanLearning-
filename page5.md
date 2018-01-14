@@ -18,7 +18,7 @@
 
 <iframe src="https://archive.org/embed/AnimalListening" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<p>Listen to a student going to school and chatting to his mates, what parts of the school section does he mention. List them in order and beware that some words are repeated.</p>
+<p>Listen to a student going to school and chatting to his mates, what parts or objects does he mention that you have learned fromt the school section? List them in order and be aware that some words are repeated.</p>
 
 <iframe src="https://archive.org/embed/SchoolListening" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
