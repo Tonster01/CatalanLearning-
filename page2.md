@@ -154,6 +154,6 @@
 <p>click play to hear all the words of the above</p>
 
 
-<p>Now listen to the recording again whilst jotting down the word you think you have heard, whilst not looking at the screen. Then do the same but write down the English word.</p>
+<p>Now listen to all the recordings again whilst jotting down the word you think you have heard, whilst not looking at the screen. Then do the same but write down the English word.</p>
   
 <p><a href="https://tonster01.github.io/CatalanLearning-/page3.html">Page 3</a></p>
