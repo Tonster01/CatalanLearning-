@@ -1095,4 +1095,4 @@
   </tr>
 <table>
 
-<p><a href="https://tonster01.github.io/CatalanLearning-/page5.html">Page 5</a></p>
+<p><a href="https://tonster01.github.io/CatalanLearning-/page5.html">Next stage</a></p>
