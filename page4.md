@@ -321,3 +321,77 @@
   </tr>
 <table>
  
+<h4> style="color:Tomato;">Irregular verb of <bold>Anar<bold></h4>
+
+<table id="t01">
+  <tr>
+    <th>Person</th>
+    <th>Present d'incatiu</th> 
+    <th>Imperfet d'incatiu</th>
+    <th>Futur simple</th>
+    <th>Condicional simple</th>
+    <th>Present de subjuntiu</th>
+    <th>Imperfet de supjuntiu</th>
+    <th>Imperatiu</th>
+  </tr>
+  <tr>
+    <td>jo</td>
+    <td>vaig</td>
+    <td>anava</td>
+    <td>aniré</td>
+    <td>aniria</td>
+    <td>vagi</td>
+    <td>anés</td>
+    <td>vés</td>
+  </tr>  
+  <tr>
+    <td>tu</td>
+    <td>vas</td>
+    <td>anaves</td>
+    <td>aniràs</td>
+    <td>aniries</td>
+    <td>vagis</td>
+    <td>anessis</td>
+    <td>vagi</td>
+  </tr>
+  <tr>
+    <td>ell/ella/vosté</td>
+    <td>va</td>
+    <td>anava</td>
+    <td>anirà</td>
+    <td>aniria</td>
+    <td>vagi</td>
+    <td>anés</td>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <td>nosaltres</td>
+    <td>anem</td>
+    <td>anàvem</td>
+    <td>anirem</td>
+    <td>aniríem</td>
+    <td>anem</td>
+    <td>anéssim</td>
+    <td>anem</td>
+  </tr>
+  <tr>
+    <td>vosaltres</td>
+    <td>aneu</td>
+    <td>anàveu</td>
+    <td>anireu</td>
+    <td>aniríeu</td>
+    <td>aneu</td>
+    <td>anéssiu</td>
+    <td>aneu</td>
+  </tr>
+  <tr>
+    <td>ells/elles/vostès</td>
+    <td>van</td>
+    <td>anaven</td>
+    <td>aniran</td>
+    <td>anirien</td>
+    <td>vagin</td>
+    <td>anessin</td>
+    <td>vagin</td>
+  </tr>
+<table>
