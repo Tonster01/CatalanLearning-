@@ -39,7 +39,7 @@
   </ol>
   
 <h3 Style="color:Tomato;">Online dictionary</h3>
-<p><a href="http://www.catalandictionary.org/en/search/">Basic Grammar</a></p>
+<p><a href="http://www.catalandictionary.org/en/search/">Catalan dictionary</a></p>
 
   <body>
   
