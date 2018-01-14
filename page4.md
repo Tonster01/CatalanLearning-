@@ -2,7 +2,7 @@
 
 <h3 style="color:DodgerBlue;">Primer conjugació (-ar)</h3>
 
-<h4> style="color:Tomato;">Regular verbs</h4>
+<h4 style="color:Tomato;">Regular verbs</h4>
 
 <p>For every verb you take away the ending <strong>(-ar, -er or -ir)</strong> and you then add the correct ending. For example you would take away the <strong>-ar ending on the verb sopar to make sop.</strong></p>
 
@@ -45,6 +45,7 @@
     <td>havien -at</td>
   </tr>
 <table>
+  
 <hr>
   
 <table id="t01">
