@@ -494,7 +494,7 @@
   </tr>
   <tr height="20">
     <td height="20">eu</td>
-    <td>try to pronounce both vowels quickly    together</td>
+    <td>try to pronounce both vowels quickly together</td>
   </tr>
   <tr height="20">
     <td height="20">iai</td>
@@ -510,10 +510,10 @@
   </tr>
   <tr height="20">
     <td height="20">ieu</td>
-    <td>no English equivalent: essentially &quot;eu&quot; with a y sound at    beginning</td>
+    <td>&quot;eu&quot; with a y sound at    beginning</td>
   </tr>
   <tr height="20">
     <td height="20">ueu</td>
-    <td>no English equivalent: essentially &quot;eu&quot; with a w sound at    beginning</td>
+    <td> &quot;eu&quot; with a w sound at    beginning</td>
   </tr>
 </table>
