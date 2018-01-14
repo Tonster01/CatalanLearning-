@@ -494,7 +494,7 @@
   </tr>
   <tr height="20">
     <td height="20">eu</td>
-    <td>no real English equivalent, simply try to pronounce both vowels quickly    together</td>
+    <td>try to pronounce both vowels quickly    together</td>
   </tr>
   <tr height="20">
     <td height="20">iai</td>
