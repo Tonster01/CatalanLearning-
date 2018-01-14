@@ -150,7 +150,7 @@
   <li>Els bessons= twins (m)</li>
   <li>Les bessones= twins (f)</li>
 
-
+<hr>
 <p>click play to hear all the words of the above</p>
 
 <iframe src="https://archive.org/embed/germanastre" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
