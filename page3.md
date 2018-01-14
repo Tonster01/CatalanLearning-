@@ -324,3 +324,124 @@
     <td><strong>dos mil, dues mil </strong></td>
     </tr>
 </table>
+<table class="table table-striped table-bordered table-hover table-responsive" align="center" cellpadding="2" cellspacing="2">
+  <tr>
+    <td>&nbsp;</td>
+    <td><em>masculine singular </em></td>
+    <td><em>masculine plural </em></td>
+    <td><em>feminine singular </em></td>
+    <td><em>feminine plural </em></td>
+  </tr>
+  <tr>
+    <td>1st</td>
+    <td><strong>primer (1r) </strong></td>
+    <td><strong>primers (1rs) </strong></td>
+    <td><strong>primera (1a) </strong></td>
+    <td><strong>primeres (1es) </strong></td>
+  </tr>
+  <tr>
+    <td>2nd</td>
+    <td><strong>segon (2n) </strong></td>
+    <td><strong>segons (2ns) </strong></td>
+    <td><strong>segona (2a) </strong></td>
+    <td><strong>segones (2es) </strong></td>
+  </tr>
+  <tr>
+    <td>3rd</td>
+    <td><strong>tercer (3r) </strong></td>
+    <td><strong>tercers (3rs) </strong></td>
+    <td><strong>tercera (3a) </strong></td>
+    <td><strong>terceres (3es) </strong></td>
+  </tr>
+  <tr>
+    <td>4th</td>
+    <td><strong>quart (4t) </strong></td>
+    <td><strong>quarts (4ts) </strong></td>
+    <td><strong>quarta (4a) </strong></td>
+    <td><strong>quartes (4es) </strong></td>
+  </tr>
+  <tr>
+    <td>5th</td>
+    <td><strong>cinquè (5è) </strong></td>
+    <td><strong>cinquens (5ns) </strong></td>
+    <td><strong>cinquena (5a) </strong></td>
+    <td><strong>cinquenes (5es) </strong></td>
+  </tr>
+  <tr>
+    <td>6th</td>
+    <td><strong>sisè (6è) </strong></td>
+    <td><strong>sisens (6ns) </strong></td>
+    <td><strong>sisena (6a) </strong></td>
+    <td><strong>sisenes (6es) </strong></td>
+  </tr>
+  <tr>
+    <td>7th</td>
+    <td><strong>setè (7è) </strong></td>
+    <td><strong>setens (7ns) </strong></td>
+    <td><strong>setena (7a) </strong></td>
+    <td><strong>setenes (7es) </strong></td>
+  </tr>
+  <tr>
+    <td>8th</td>
+    <td><strong>vuitè (8è) </strong></td>
+    <td><strong>vuitens (8ns) </strong></td>
+    <td><strong>vuitena (8a) </strong></td>
+    <td><strong>vuitenes (8es) </strong></td>
+  </tr>
+  <tr>
+    <td>9th</td>
+    <td><strong>novè (9è) </strong></td>
+    <td><strong>novens (9ns) </strong></td>
+    <td><strong>novena (9a) </strong></td>
+    <td><strong>novenes (9es) </strong></td>
+  </tr>
+  <tr>
+    <td>10th</td>
+    <td><strong>desè (10è) </strong></td>
+    <td><strong>desens (10ns) </strong></td>
+    <td><strong>desena (10a) </strong></td>
+    <td><strong>desenes (10es) </strong></td>
+  </tr>
+  <tr>
+    <td>11th</td>
+    <td><strong>onzè (11è) </strong></td>
+    <td><strong>onzens (11ns) </strong></td>
+    <td><strong>onzena (11a) </strong></td>
+    <td><strong>onzenes (11es) </strong></td>
+  </tr>
+  <tr>
+    <td>20th</td>
+    <td><strong>vintè (20è) </strong></td>
+    <td><strong>vintens (20ns) </strong></td>
+    <td><strong>vintena (20a) </strong></td>
+    <td><strong>vintenes (20es) </strong></td>
+  </tr>
+  <tr>
+    <td>21st</td>
+    <td><strong>vint-i-unè (21è) </strong></td>
+    <td><strong>vint-i-unens (21ns) </strong></td>
+    <td><strong>vint-i-unena (21a) </strong></td>
+    <td><strong>vint-i-unenes (21es) </strong></td>
+  </tr>
+  <tr>
+    <td>30th</td>
+    <td><strong>trentè (30è) </strong></td>
+    <td><strong>trentens (30ns) </strong></td>
+    <td><strong>trentena (30a) </strong></td>
+    <td><strong>trentenes (30es) </strong></td>
+  </tr>
+  <tr>
+    <td>100th</td>
+    <td><strong>centè (100è) </strong></td>
+    <td><strong>centens (100ns) </strong></td>
+    <td><strong>centena (100a) </strong></td>
+    <td><strong>centenes (100es) </strong></td>
+  </tr>
+  <tr>
+    <td>1000th</td>
+    <td><strong>milè (1000è) </strong></td>
+    <td><strong>milens (1000ns) </strong></td>
+    <td><strong>milena (1000a) </strong></td>
+    <td><strong>milenes (1000es) </strong></td>
+  </tr>
+</table>
