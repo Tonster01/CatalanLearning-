@@ -85,6 +85,8 @@
   
 <p>click play to hear all the words of the above</p>
 
+<iframe src="https://archive.org/embed/hamster_201801" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <h4 style="color:DodgerBlue;">School</h4>
 <ul>
   <li>La classe= the class</li>
