@@ -48,6 +48,3 @@
 <p><a href="https://tonster01.github.io/CatalanLearning-/page2.html">Page 2</a></p>
 
 
-<h2> Elephant link to video tape</h2>
-
-<a href="https://archive.org/details/Funny_201711">Elephant and Elephant Whisperer</a>
