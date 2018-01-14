@@ -322,7 +322,7 @@
   </tr>
 <table>
  
-<h4> style="color:Tomato;">Irregular verb of <bold>Anar<bold></h4>
+<h4 style="color:Tomato;">Irregular verb of <bold>Anar<bold></h4>
 
 <table id="t01">
   <tr>
