@@ -324,7 +324,7 @@
     <td><strong>dos mil, dues mil </strong></td>
     </tr>
 </table>
-
+<hr>
 
 <table class="table table-striped table-bordered table-hover table-responsive" align="center" cellpadding="2" cellspacing="2">
   <tr>
