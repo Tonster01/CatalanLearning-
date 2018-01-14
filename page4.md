@@ -396,3 +396,5 @@
     <td>vagin</td>
   </tr>
 <table>
+
+<h2 style="color:DarkGoldenRod;">Segona conjugació<h2>
