@@ -27,8 +27,6 @@
   
 <h4>The final stage will consist of:</h4>
 <li>Listening exercises</li> 
-<li>Gap fills</li>
- 
 
 <hr>
 <hr>
@@ -40,6 +38,9 @@
   <li>For further learning<a href="http://www.orbilat.com/Languages/Catalan/Grammar/index.html">click here</a></li>
   </ol>
   
+<h3 Style="color:Tomato;">Online dictionary</h3>
+<p><a href="http://www.catalandictionary.org/en/search/">Basic Grammar</a></p>
+
   <body>
   
 <h4 style="color:blue;">Did you know that Pep Guardiola's surname means piggy bank in Catalan.</h4>
