@@ -11,12 +11,12 @@
   <li>School</li>
   <li>Family</li>
  </ul>
-<p>This will consist of hearing each word and then writing the corresponding word in English and then vice versa. Also at the end will consist of a memory game with flash cards.</p>
+<p>This will consist of hearing each word and then writing the corresponding word in English. A matching up test will also be included</p>
 
 <h4>The second stage consists of:</h4>
 <p>Key Phrases, The Alphabet, Numbers and Catalan Consonant Combinations, Diphthongs and Triphthongs</p>
   
-<p>This stage will have pronunciation as well as how to write each word or phrase, this will then get progressively harder with the English given and then needing to fill in the blanks with the Spanish.</p>   
+<p>This stage will have pronunciation as well as how to write each word or phrase.</p>   
 
 <h4>The third stage consists of:</h4> 
 <ul><b>Basic grammar</b>
@@ -26,7 +26,6 @@
   <li>Gerundis i participis irregulars</li></ul>
   
 <h4>The final stage will consist of:</h4>
-<li>Memory games with all stages covered</li> 
 <li>Listening exercises</li> 
 <li>Gap fills</li>
  
@@ -43,26 +42,11 @@
   
   <body>
   
-<h4 style="color:blue;">Did you know that Pep Guradiola's surname means piggy bank in Catalan.</h4>
+<h4 style="color:blue;">Did you know that Pep Guardiola's surname means piggy bank in Catalan.</h4>
   
 <hr>
-<h3>Links and Images</h3>
-<p> First I'm going to link to <a href="http://language-centre.sllf.qmul.ac.uk/language-centre/people/academic/barge.html">Martin Barge</a></p>
+<p><a href="https://tonster01.github.io/CatalanLearning-/page2.html">Page 2</a></p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Snow_leopard_portrait.jpg" />
-
-<table id="t01">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Martin</td>
-    <td>Barge</td> 
-    <td>Unknown</td>
-  </tr>
-</table>
 
 <h2> Elephant link to video tape</h2>
 
