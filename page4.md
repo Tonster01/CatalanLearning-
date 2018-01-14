@@ -1030,3 +1030,68 @@
     <td>havent -it</td>
   </tr>
 <table>
+  
+<h2>Gerundis i Participis Irregulars</h2>
+<table id="t01">
+  <tr>
+    <th>Infinitiu</th>
+    <th>Gerundi</th> 
+    <th>Participi</th>
+  </tr>
+  <tr>
+    <td>admetre</td>
+    <td>admetent</td>
+    <td>admès</td>
+  </tr>  
+  <tr>
+    <td>atendre</td>
+    <td>atenent</td>
+    <td>atès</td>
+  </tr>
+  <tr>
+    <td>aparèixer</td>
+    <td>apareixent</td>
+    <td>aparegut</td>
+  </tr>
+  <tr>
+    <td>aprendre</td>
+    <td>aprenent</td>
+    <td>aprés</td>
+  </tr>
+  <tr>
+    <td>beure</td>
+    <td>bevent</td>
+    <td>begut</td>
+  </tr>
+  <tr>
+    <td>caldre</td>
+    <td>calent</td>
+    <td>calgut</td>
+  </tr>
+  <tr>
+    <td>caure</td>
+    <td>caient</td>
+    <td>caigut</td>
+  </tr>
+  <tr>
+    <td>cobrir</td>
+    <td>cobrint</td>
+    <td>cobert</td>
+  </tr>
+  <tr>
+    <td>complir</td>
+    <td>complint</td>
+    <td>complert</td>
+  </tr>
+  <tr>
+    <td>coure</td>
+    <td>coent</td>
+    <td>cuit/cogut</td>
+  </tr>
+  <tr>
+    <td>creure</td>
+    <td>creient</td>
+    <td>cregut</td>
+  </tr>
+<table>
+<table>
