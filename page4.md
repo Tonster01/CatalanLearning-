@@ -279,7 +279,6 @@
   <tr>
     <th>Person</th>
     <th>Imperfect</th> 
-    <th>Plusquamperfect</th>
   </tr> 
   <tr>
     <td>tu</td>
@@ -305,5 +304,20 @@
   
 <h3 style="color:Tomato;">Formes no personals</h3>
 
-
+<table id="t01">
+  <tr>
+    <th>Infinitiu</th>
+    <th>Gerundi</th> 
+    <th>Participi</th>
+  </tr>
+  <tr>
+    <td>ar</td>
+    <td>ant</td>
+    <td>at</td>
+  </tr>  
+  <tr>
+    <td>haver -at</td>
+    <td>havent -at</td>
+  </tr>
+<table>
  
