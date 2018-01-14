@@ -73,12 +73,32 @@
     <td>Do you speak Catalan</td>
   </tr>
   <tr>
-    <td>Gràcies</td>
-    <td>Thank you</td>
+    <td>Bona/molta sort</td>
+    <td>Good luck</td>
   </tr>
   <tr>
-    <td>Gràcies</td>
-    <td>Thank you</td>
+    <td>Sóc de</td>
+    <td>I'm from</td>
+  </tr>
+  <tr>
+    <td>Vinc de</td>
+    <td>I come from</td>
+  </tr>
+  <tr>
+    <td>Per favor</td>
+    <td>Please</td>
+  </tr>
+  <tr>
+    <td>Sisplau</td>
+    <td>Please</td>
+  </tr>
+  <tr>
+    <td>Fins ara, fins aviat</td>
+    <td>See you soon</td>
+  </tr>
+  <tr>
+    <td>No ho entenc</td>
+    <td>I don't understand</td>
   </tr>
 </table>
 
